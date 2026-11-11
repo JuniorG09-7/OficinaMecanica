@@ -1,0 +1,6 @@
+url=jdbc:mysql://localhost:3306/oficina?createDatabaseIfNotExist=true&useSSL=false&allowPublicKeyRetrieval=true
+usuario=root
+senha=SUA_SENHA_AQUI
+
+# Para testar sem MySQL, use a linha abaixo no lugar da url acima:
+# url=jdbc:h2:./oficina-teste;MODE=MySQL

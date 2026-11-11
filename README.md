@@ -14,8 +14,8 @@ Participantes: José Gicivaldo da Silva Santos e Igor Galindo da Silva.
 
 1. Clone o repositório:
    ```
-   git clone <link-do-repositorio>
-   cd OficinaMecanica_MySQL
+   git clone https://github.com/JuniorG09-7/OficinaMecanica.git
+   cd OficinaMecanica
    ```
 2. Copie o arquivo de configuração do banco:
    ```
